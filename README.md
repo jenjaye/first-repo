@@ -13,3 +13,6 @@ These are some things I like to do:
 Here are my projects' websites: [CalTrin](https://www.caltrin.org/) and [CEBC](https://www.cebc4cw.org/).
 
 Learn more about me on [LinkedIn](https://www.linkedin.com/in/jennifer-rolls-reutz/).
+
+I love *animals* - here are some cute smiling animals to thank you for visiting my ReadMe:
+![cute animal pics](https://www.awesomeinventions.com/wp-content/uploads/2016/02/Cute-Images-Animals-Smiling-768x409.jpg)
